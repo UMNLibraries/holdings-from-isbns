@@ -1,0 +1,2 @@
+# holdings-from-isbns
+Python scripts and Jupyter Notebook to determine electronic holdings, print holdings, and print copies held on the basis of a list of ISBNs.  This process determines Alma electronic and print holdings for a list of ISBNs. The ISBNs may originate from any source, but the process was designed to produce an Excel spreadsheet report on the basis of a title offer list from a vendor or publisher.
